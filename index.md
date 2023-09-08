@@ -4,3 +4,6 @@
 ```Java
 String a="Hello world!"
 ```
+- [x] Learnt Python
+- [ ] Learnt C++
+- [x] Learnt JavaScript
